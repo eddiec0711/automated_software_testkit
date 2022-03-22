@@ -1,0 +1,16 @@
+Coverage/ConditionCoverage.class
+Coverage/CorrelatedMCDC.class
+TestDataGenerator/ClassObjectGenerate.class
+TestOutput.class
+TestDataGenerator/BasicTestGeneration.class
+TestFileGenerator/Logger.class
+Example/BMICalculator.class
+Example/BMICalculator$Type.class
+TestDataGenerator/TestGeneration.class
+TestFileGenerator/Setup$1.class
+TestFileGenerator/Setup.class
+Coverage/BranchCoverage.class
+Example/Coffee.class
+Example/Calender.class
+AutoTester.class
+TestFileGenerator/MethodModifier.class
